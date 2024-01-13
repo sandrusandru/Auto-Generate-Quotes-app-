@@ -1,1 +1,1 @@
-# quotsapp
+# autogenerate quote using api
