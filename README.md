@@ -1,1 +1,1 @@
-# autogenerate quote using api
+# Auto generate quote using api
